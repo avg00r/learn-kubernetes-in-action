@@ -1,2 +1,2 @@
-# learn-kubernetes-in-action
-Code from the book "Kubernetes in Action" by Marko Luksa
+# Learn Kubernetes in Action
+Code from the [Kubernetes in Action](https://k8s.si/book) book by Marko Luksa
